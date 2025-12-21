@@ -1,7 +1,7 @@
 {
     "name": "Module-World",
     "version": "0.0.1",
-    "description": "Extension for YahBoom YB_Module-World V0.0.1",
+    "description": "Yahboom Extension Board - Sensor Kit",
     "license": "MIT",
     "dependencies": {
         "core": "*",
@@ -10,9 +10,7 @@
     },
     "files": [
         "README.md",
-        "rgb.ts",
-        "_locales/zh-cn/Module-World-strings.json",
-        "_locales/zh-tw/Module-World-strings.json"
+        "main.ts"
     ],
     "testFiles": [
         "test.ts"

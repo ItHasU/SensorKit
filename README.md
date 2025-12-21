@@ -1,8 +1,6 @@
-# Yahboom Technology - Sensor Kit
+# Yahboom Sensor Kit
 
-Refactor of Yahboom code for easier access for my kid.
-This code is a refactor of the original code from Yahboom.
-None of this code is affiliated to Yahboom.
+This is a refactor of the Yahboom Sensor Kit code
 
 ## License
 
